@@ -1,0 +1,3 @@
+My name is Noor Abuhadid.
+I'm practicing Git & GitHub.
+This file is part of the Git task.
